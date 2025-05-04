@@ -129,7 +129,8 @@ h6 {
 
 #main {
   margin-left: 300px;
-}
+  display: none;
+  }
 
 @media (max-width: 1199px) {
   #header {
